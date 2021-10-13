@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RicardoDibo
+- 👋 Hi, I’m @Ricardo
 - 👀 I’m interested in Cybersecurity and Programming | Segurança da Informação (Cibersegurança) e Programação.
 - 🌱 I’m currently learning PHP and Shell Script.
 - 💞️ I’m looking to collaborate on Scripts for any area | Scripts para qualquer area.
