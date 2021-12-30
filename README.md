@@ -13,13 +13,4 @@ principally Python for automation, also I known basic of php, ReactJs(Native too
 Bom, estou na área de programação desde 2019, Cibersegurança desde 2021. Estou desenvolvendo diversos softwares em vários idiomas, 
 principalmente Python para automação,também conheço básico de php, ReactJs (Native também) e ShellScript, sempre com foco em Cibersegurança.
 
-<!---
-Links Interessantes
-=====================================================================================================
 
-- https://www.charlesproxy.com/
-- https://www.shellscript.sh/
-- https://www.computersciencemaster.com.br/como-criar-o-jogo-da-cobrinha-snake-usando-p5-js/
-- https://www.youtube.com/watch?v=bXCeFPNWjsM
-- https://www.youtube.com/watch?v=sdP1i2J7tVw&list=WL&index=26
---->
