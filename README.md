@@ -14,6 +14,12 @@ Bom, estou na área de programação desde 2019, Cibersegurança desde 2021. Est
 principalmente Python para automação,também conheço básico de php, ReactJs (Native também) e ShellScript, sempre com foco em Cibersegurança.
 
 <!---
-RicardoDibo/RicardoDibo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Links Interessantes
+=====================================================================================================
+
+- https://www.charlesproxy.com/
+- https://www.shellscript.sh/
+- https://www.computersciencemaster.com.br/como-criar-o-jogo-da-cobrinha-snake-usando-p5-js/
+- https://www.youtube.com/watch?v=bXCeFPNWjsM
+- https://www.youtube.com/watch?v=sdP1i2J7tVw&list=WL&index=26
 --->
