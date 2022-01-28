@@ -13,4 +13,4 @@ Links Interessantes
 - https://code.tutsplus.com/pt/tutorials/building-restful-apis-with-flask-diy--cms-26625
 - https://blog.debugeverything.com/pt/programacao-em-python-aplicativo-flask/
 - https://www.thepythoncode.com/
-- 
+- https://www.thepythoncode.com/article/control-keyboard-python
