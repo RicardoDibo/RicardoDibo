@@ -10,3 +10,5 @@ Links Interessantes
 - https://www.3cx.com.br/docs/manual/configurando-pabx/
 - https://www.youtube.com/watch?v=IPXB-8LFa3g
 - https://tidahora.com.br/instalando-o-3cx-pbx-no-debian-9-stretch/
+- https://code.tutsplus.com/pt/tutorials/building-restful-apis-with-flask-diy--cms-26625
+- https://blog.debugeverything.com/pt/programacao-em-python-aplicativo-flask/
