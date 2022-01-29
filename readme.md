@@ -14,3 +14,5 @@ Links Interessantes
 - https://blog.debugeverything.com/pt/programacao-em-python-aplicativo-flask/
 - https://www.thepythoncode.com/
 - https://www.thepythoncode.com/article/control-keyboard-python
+- http://blog.novaeletronica.com.br/categoria/curso/
+- 
