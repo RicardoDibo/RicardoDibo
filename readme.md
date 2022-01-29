@@ -21,4 +21,4 @@ Links Interessantes
 - https://www.arduino.cc/reference/pt/
 - https://oficinaderobotica.ufsc.br/files/2013/04/Programa%C3%A7%C3%A3o-em-Arduino-M%C3%B3dulo-B%C3%A1sico.pdf
 - https://www.youtube.com/c/BrincandocomIdeias/playlists
-- 
+- https://www.youtube.com/watch?v=vLuzO_vJrW4
