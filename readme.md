@@ -23,3 +23,6 @@ Links Interessantes
 - https://oficinaderobotica.ufsc.br/files/2013/04/Programa%C3%A7%C3%A3o-em-Arduino-M%C3%B3dulo-B%C3%A1sico.pdf
 - https://www.youtube.com/c/BrincandocomIdeias/playlists
 - https://www.youtube.com/watch?v=vLuzO_vJrW4
+- https://pt.stackoverflow.com/questions/194395/convertendo-um-arquivo-texto-em-xml-com-python/194533#194533
+- https://pt.stackoverflow.com/questions/304810/xml-mal-formatado
+- https://pt.stackoverflow.com/questions/3561/como-criar-e-ler-um-xml-com-python
