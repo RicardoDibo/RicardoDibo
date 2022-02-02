@@ -26,3 +26,5 @@ Links Interessantes
 - https://pt.stackoverflow.com/questions/194395/convertendo-um-arquivo-texto-em-xml-com-python/194533#194533
 - https://pt.stackoverflow.com/questions/304810/xml-mal-formatado
 - https://pt.stackoverflow.com/questions/3561/como-criar-e-ler-um-xml-com-python
+- https://www.youtube.com/watch?v=Yclzah4pJQA
+- https://www.youtube.com/watch?v=oKaU0lowofo&list=TLPQMDIwMjIwMjInjpV2QaxEfg&index=2
