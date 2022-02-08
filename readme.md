@@ -28,3 +28,5 @@ Links Interessantes
 - https://pt.stackoverflow.com/questions/3561/como-criar-e-ler-um-xml-com-python
 - https://www.youtube.com/watch?v=Yclzah4pJQA
 - https://www.youtube.com/watch?v=oKaU0lowofo&list=TLPQMDIwMjIwMjInjpV2QaxEfg&index=2
+- React
+- https://material.io/components?platform=android
