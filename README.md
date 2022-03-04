@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ricardo
 - 👀 I’m interested in Cybersecurity and Programming | Segurança da Informação (Cibersegurança) e Programação.
-- 🌱 I’m currently learning PHP and Shell Script.
+- 🌱 I’m currently learning Python and Shell Script.
 - 💞️ I’m looking to collaborate on Scripts for any area | Scripts para qualquer area.
 - 📫 How to reach me?...
 
