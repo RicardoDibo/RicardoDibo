@@ -33,5 +33,5 @@ Links Interessantes
 - https://mui.com/pt/getting-started/usage/
 - Python
 - https://beautiful-soup-4.readthedocs.io/en/latest/#comparing-objects-for-equality
+- https://www.youtube.com/watch?v=_dPjIqPeEI0
 - 
-
